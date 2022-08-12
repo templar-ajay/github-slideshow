@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our Second Slide"
+title: "Welcome to Templar Command0 Slide"
 ---
 Let me tell you something _useless_ , this is
 actually my third tutorial to learn github and git from Linkedin. This time I'll get a good idea of it
